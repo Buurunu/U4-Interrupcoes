@@ -146,8 +146,8 @@ void exibir_numero(int numero) {
 }
 
 void piscar_led_rgb() {
-    gpio_put(LED_RGB_R, 0); // Vermelho
-    gpio_put(LED_RGB_G, 1); // Verde
+    gpio_put(LED_RGB_R, 1); // Vermelho
+    gpio_put(LED_RGB_G, 0); // Verde
     gpio_put(LED_RGB_B, 0); // Azul
     sleep_ms(100);
     // Desliga o LED RGB
