@@ -4,8 +4,8 @@
 #include <stdint.h>
 #include "pico/stdlib.h"
 
-#define BOTAO_A 6
-#define BOTAO_B 5
+#define BOTAO_A 5
+#define BOTAO_B 6
 
 extern volatile int numero_atual;
 extern volatile uint32_t ultimo_tempo_a;

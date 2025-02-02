@@ -54,7 +54,7 @@ add_executable(main
 target_include_directories(main PUBLIC include)
 
 # Define o nome e a versão do programa
-pico_set_program_name(main "interrupcao")  # Nome do programa
+pico_set_program_name(main "U4-INTERRUPCOES")  # Nome do programa
 pico_set_program_version(main "0.1")  # Versão do programa
 
 # Cria um diretório para arquivos gerados
