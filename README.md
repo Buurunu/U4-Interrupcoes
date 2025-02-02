@@ -144,7 +144,7 @@ Para que os comandos **Ninja**, **CMake** e **Python** sejam reconhecidos em qua
    ninja
    ```   
 ## 💻 Video demonstrativo: 
-**https://youtu.be/9TA_CENymRM**
+**https://youtu.be/xnlZiaqKArQ**
  
 
 
